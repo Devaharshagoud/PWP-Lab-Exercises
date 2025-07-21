@@ -1,0 +1,5 @@
+x = int(input("Give a value for x: "))
+y = int(input("Give a value for y: "))
+print("z = (x + y) * (x - y)")
+z = (x + y) * (x - y)
+print("z=",z)

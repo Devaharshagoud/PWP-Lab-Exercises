@@ -1,0 +1,5 @@
+x = int(input("Give a value for x: "))
+y = int(input("Give a value for y: "))
+z = ((x + y) * (x + y) - 2 * x * y)
+print("z=(x+y)*(x+y)-2xy")
+print("The calculated value of z is: ",z)
